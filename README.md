@@ -15,6 +15,11 @@ documentação define o *quê* e os critérios de pronto, e a implementação av
 sprint, com **testes obrigatórios** e **rastreabilidade** de cada entrega até a sprint
 que a originou.
 
+
+Estes projetos são desenvolvidos em **parceria com IA**: eu defino arquitetura,
+critérios e documentação; a IA executa sob essa direção, sprint a sprint. O método
+importa mais que a ferramenta — é ele que mantém a entrega rastreável e testada.
+
 ### 🛠️ Stack
 
 - **Backend:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL · Redis · Celery

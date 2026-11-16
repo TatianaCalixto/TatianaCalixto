@@ -1,66 +1,85 @@
 # Olá, eu sou a Tatiana 👋
 
-### Analista de Dados e BI Sênior, hoje também dirijo IA para construir produtos de ponta a ponta.
+### Análise de Dados e Sistemas | SQL, BI e Automação de Processos | Projetos com IA Generativa
 
-25 anos lendo necessidade de negócio e transformando em dado e decisão (SQL, Power BI,
-modelagem de dados, inclusive em ambiente bancário regulado). Desde nov/2025, aplico essa
-mesma leitura de contexto para dirigir Inteligência Artificial na construção de software:
-eu defino arquitetura, critério de pronto e documentação; a IA executa sob essa direção,
-sprint a sprint, sem deixar passar regressão.
+Sou profissional de tecnologia com trajetória consolidada em análise de dados, Business Intelligence, bancos de dados, análise de sistemas e automação de processos.
+
+Minha experiência inclui atuação em ambientes corporativos, inclusive no setor financeiro, trabalhando com SQL, Power BI, indicadores gerenciais, análise de requisitos e melhoria de processos.
+
+Desde novembro de 2025, venho ampliando minha atuação para projetos digitais desenvolvidos com apoio de Inteligência Artificial Generativa. Aplico minha experiência em análise de sistemas e processos para estruturar requisitos, organizar tarefas, documentar decisões, acompanhar implementações, realizar testes e validar entregas.
 
 ---
 
 ### 🧭 Como eu trabalho
 
-Não domino a fundo cada linguagem ou framework que uso. Domino como transformar uma
-necessidade em **documentação viva**, critério de aceite e teste obrigatório, e como
-dirigir a execução até esse critério ser cumprido, sprint a sprint, sem regressão. É um
-método, não uma ferramenta específica: já apliquei em backend, mobile, painel de dados e
-análise de dados públicos.
+Não tenho o mesmo nível de domínio técnico em todas as linguagens e frameworks utilizados nos meus projetos. Parte do desenvolvimento é realizada com apoio de ferramentas de IA generativa.
 
-A prova não é a linha de código, é o resultado: **testes verdes, cobertura real, CI ativo
-e um histórico de decisões auditável do início ao fim.**
+Meu foco está em compreender o problema, definir o que precisa ser desenvolvido e verificar se o resultado atende aos requisitos estabelecidos.
 
-### 📊 Prova, não promessa
+Procuro organizar esse trabalho em etapas:
 
-- **294 testes verdes · 96% de cobertura · CI ativo** no OrçaFácil (controle financeiro pessoal)
-- **App publicado** no Observatório de Mobilidade Urbana (dados públicos de SP, ponta a ponta)
-- **28 sprints · 127 tarefas · 11 decisões documentadas** no estudo de caso de método, abaixo
+1. **Entendimento do problema:** identificação das necessidades, regras de negócio e objetivos.
+2. **Planejamento:** organização de funcionalidades, tarefas e critérios de aceitação.
+3. **Desenvolvimento assistido por IA:** acompanhamento da implementação e revisão das entregas.
+4. **Testes e validação:** identificação de erros, verificação das funcionalidades e correção de problemas.
+5. **Documentação:** registro de decisões, alterações e aprendizados ao longo do projeto.
 
-### 🛠️ Stack
+Esse processo vem sendo aplicado em projetos de backend, aplicações mobile, painéis e análise de dados.
 
-- **Backend:** Python · FastAPI · SQLAlchemy · Alembic · PostgreSQL · Redis · Celery
-- **Mobile:** Flutter · Dart · Riverpod · go_router · Dio
-- **Web:** Next.js · React · TypeScript · TailwindCSS
-- **Dados:** SQL · Power BI · dbt · DuckDB · Streamlit
-- **Engenharia:** Clean Architecture · JWT · pytest · GitHub Actions (CI) · Dependabot
+### 📊 Projetos e evidências
+
+Os repositórios apresentam código, documentação, testes e decisões tomadas durante o desenvolvimento.
+
+- **OrçaFácil:** aplicação de controle financeiro com testes automatizados e integração contínua. O projeto registra 294 testes aprovados e aproximadamente 96% de cobertura na versão documentada.
+- **Observatório de Mobilidade Urbana:** projeto de análise de dados públicos sobre transporte em São Paulo, incluindo tratamento de dados, análise e aplicação para visualização.
+- **Metodologia OrçaFácil:** estudo de caso documentando a organização do desenvolvimento assistido por IA, com 28 sprints, 127 tarefas e 11 decisões registradas na versão apresentada.
+
+*Os indicadores representam os registros documentados nos projetos e podem evoluir conforme novas alterações são realizadas.*
+
+### 🛠️ Tecnologias e ferramentas
+
+**Experiência profissional consolidada**
+- SQL, bancos de dados, Power BI, Excel, SAS, ETL e análise de requisitos.
+
+**Tecnologias utilizadas em projetos com apoio de IA**
+- **Backend:** Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, Redis e Celery.
+- **Mobile:** Flutter, Dart, Riverpod, go_router e Dio.
+- **Web:** Next.js, React, TypeScript e Tailwind CSS.
+- **Dados e visualização:** dbt, DuckDB e Streamlit.
+- **Desenvolvimento e testes:** Git, GitHub, pytest, GitHub Actions, JWT e Dependabot.
+
+*A utilização dessas tecnologias em projetos assistidos por IA não representa o mesmo nível de conhecimento ou autonomia em todas elas.*
+
+---
 
 ### 🚀 Projetos em destaque
 
-**🧭 [O método em ação — estudo de caso](https://github.com/TatianaCalixto/metodologia_OrcamentoFacil)**
-Como uma necessidade de negócio vira sprint, vira código testado, sem regressão. Blueprint,
-análises de fim de fase e decisões reais de construir o OrçaFácil do zero.
+**🧭 [O método em ação — Estudo de caso OrçaFácil](https://github.com/TatianaCalixto/metodologia_OrcamentoFacil)**
 
-**[OrçaFácil](https://github.com/TatianaCalixto/backend_OrcamentoFacil)** — app de controle
-financeiro pessoal, construído de ponta a ponta.
-- 🔧 Backend FastAPI + painel Streamlit → [backend_OrcamentoFacil](https://github.com/TatianaCalixto/backend_OrcamentoFacil)
-- 📱 App mobile Flutter → [frontend_OrcamentoFacil](https://github.com/TatianaCalixto/frontend_OrcamentoFacil)
+Documentação do processo utilizado no desenvolvimento assistido por IA, incluindo planejamento, requisitos, organização de sprints, critérios de aceitação, testes e registro de decisões.
 
-**[Observatório de Mobilidade Urbana](https://github.com/TatianaCalixto/observatorio-mobilidade)**
-— projeto de dados ponta a ponta sobre o transporte público de São Paulo: ingestão, dbt,
-análise e app publicado.
+**💰 [OrçaFácil](https://github.com/TatianaCalixto/backend_OrcamentoFacil)**
 
-**[BeautyFlow](https://github.com/TatianaCalixto/backend_BeautyFlow)** — SaaS multi-tenant de
-gestão para negócios de beleza.
-- 🔧 Backend FastAPI (Clean Architecture · Redis · Celery) → [backend_BeautyFlow](https://github.com/TatianaCalixto/backend_BeautyFlow)
-- 💻 Painel admin (Next.js) + app mobile (Flutter) → [frontend_BeautyFlow](https://github.com/TatianaCalixto/frontend_BeautyFlow)
+Projeto de controle financeiro pessoal, com API, banco de dados, painel web e aplicação mobile.
+
+- 🔧 [Backend FastAPI e painel Streamlit](https://github.com/TatianaCalixto/backend_OrcamentoFacil)
+- 📱 [Aplicação mobile Flutter](https://github.com/TatianaCalixto/frontend_OrcamentoFacil)
+
+**📊 [Observatório de Mobilidade Urbana](https://github.com/TatianaCalixto/observatorio-mobilidade)**
+
+Projeto de análise de dados públicos do transporte coletivo de São Paulo, envolvendo ingestão, transformação, análise e visualização de informações.
+
+O projeto também documenta limitações das fontes utilizadas, diferenciando dados de oferta planejada de informações sobre a operação real.
+
+**💇 [BeautyFlow](https://github.com/TatianaCalixto/backend_BeautyFlow)**
+
+Projeto de sistema de gestão para negócios de beleza, desenvolvido com apoio de IA generativa.
+
+- 🔧 [Backend FastAPI](https://github.com/TatianaCalixto/backend_BeautyFlow)
+- 💻 [Painel administrativo e aplicação mobile](https://github.com/TatianaCalixto/frontend_BeautyFlow)
 
 ---
 
 ### 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/tatiana-calixto-79743156) · tatianacalixto@gmail.com
-
----
-
-*Construindo produto com método: documentação que pensa, sprints que entregam, testes que protegem.*
+[LinkedIn](https://linkedin.com/in/tatiana-calixto-79743156) · [E-mail](mailto:tatianacalixto@gmail.com)
